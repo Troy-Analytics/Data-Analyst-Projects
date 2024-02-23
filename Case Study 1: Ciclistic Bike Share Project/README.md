@@ -9,7 +9,7 @@ I am a junior data analyst working on the marketing analyst team at Cyclistic, a
 [Cyclistic Bike Share PDF](https://1drv.ms/b/s!AjyLUq7ShtSnq1vGqNQh-kAjK8sB?e=Iprby4)
 
 
-Tableau Dashboard 
+[Tableau Dashboard](https://public.tableau.com/views/CyclisticBikeShareProject_17086262203330/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
-linkend
+[linkend](https://www.linkedin.com/in/troy-edmonds-aa107b26a/)
