@@ -10,4 +10,4 @@ So, what kind of trends can you expect to see? Well, according to the data, reve
 
 Overall, hotel booking data analysis can be pretty exciting. By creating a solid database, conducting EDA, and visualizing the data with Power BI, you can find valuable insights that can help hotels make better decisions and grow their revenue. So, are you ready to embark on this adventure? 
 
-![Screenshot 2024-01-28 002030](https://github.com/Troy-Analytics/Projects/assets/145521701/003e1c12-809f-4ec2-9543-8337debb7514)
+[Linkedin](https://www.linkedin.com/in/troy-edmonds-aa107b26a/)
