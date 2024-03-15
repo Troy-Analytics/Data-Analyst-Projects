@@ -1,3 +1,5 @@
+** Summary**
+
 Data analysis is pretty cool, especially when it comes to hotel bookings. Have you ever thought about how much data hotels collect? It's a lot! But it's not just about collecting data, it's about using it to make better decisions. That's where creating a powerful database in SQL Server Management Studio (SSMS) comes in. With the right database, you can use SQL commands to explore the data and find hidden insights.
 
 Once you've got the hang of writing SQL queries, it's time to ask the right questions to conduct exploratory data analysis (EDA). For example, should the hotel increase the size of its parking lot? Are there any revenue trends that need to be addressed? By grouping data by hotel and creating a temporary table, you can find revenue trends and growth opportunities.
