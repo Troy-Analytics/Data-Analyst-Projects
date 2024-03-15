@@ -6,4 +6,4 @@
 
 The total revenue generated for the year was $351,952.64, with an average of $5,586.55 sold by sales reps. Our top-selling sales rep is Diego Freyre, who has a total of $30,463.79 in sales, with the highest revenue generated in December, at $12,454.92. These insights can help toy car enthusiasts and retailers alike to better understand the market and make informed decisions about which products to stock and promote.💰📈
 
-[linkenin](https://www.linkedin.com/in/troy-edmonds-aa107b26a/)
+[linkedin](https://www.linkedin.com/in/troy-edmonds-aa107b26a/)
