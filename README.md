@@ -1,7 +1,7 @@
 # Welcome to My GitHub Repository!
 
 ## About Me
-Hey there! 👋 I'm [Troy Edmonds], a passionate data enthusiast with a knack for uncovering insights from complex datasets. I thrive on turning raw data into actionable insights and love exploring the fascinating world of data analysis.
+Hey there! 👋 I'm Troy Edmonds, a passionate data enthusiast with a knack for uncovering insights from complex datasets. I thrive on turning raw data into actionable insights and love exploring the fascinating world of data analysis.
 
 ## What You'll Find Here
 In this repository, I've curated a collection of my data analyst projects, showcasing my skills in data manipulation, visualization, and interpretation. Each project is a testament to my dedication to extracting meaningful information from data and solving real-world problems.
