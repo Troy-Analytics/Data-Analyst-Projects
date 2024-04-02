@@ -9,9 +9,9 @@ In this repository, I've curated a collection of my data analyst projects, showc
 ## Projects Overview
 Here's a glimpse of what you'll discover in this repository:
 
-1. **Cyclistic Bikeshare Cast Study:** An interactive dashboard analyzing rider data to identify trends, patterns, and opportunities for business growth.
+1. **Hotel Bookings:** An interactive dashboard analyzing Hotel sales data to identify trends, patterns, and opportunities for business growth.
 
-2. **Customer Segmentation Study:** A detailed analysis of customer behavior and segmentation to tailor marketing strategies and improve customer satisfaction.
+2. **Hotel booking:** A detailed analysis of customer behavior and segmentation to tailor marketing strategies and improve customer satisfaction.
 
 3. **Financial Performance Report:** A comprehensive report evaluating the financial performance of a company, including profitability analysis and forecasting.
 
