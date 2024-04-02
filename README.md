@@ -11,14 +11,12 @@ Here's a glimpse of what you'll discover in this repository:
 
 1. **Hotel Bookings:** An interactive dashboard analyzing Hotel sales data to identify trends, patterns, and opportunities for business growth.
 
-2. **Hotel booking:** A detailed analysis of customer behavior and segmentation to tailor marketing strategies and improve customer satisfaction.
+2. **Cyclistic Bike Share Project** A detailed analysis of rider behavior and segmentation to tailor marketing strategies and increase annual members.
 
-3. **Financial Performance Report:** A comprehensive report evaluating the financial performance of a company, including profitability analysis and forecasting.
-
-4. **Market Research Analysis:** A deep dive into market trends and consumer preferences to guide strategic decision-making and product development.
+3. **Toy Car Project:** A deep dive into Toy car sales data to identify trends, and patterns in the popularaty of toycars around the world withen company.
 
 ## Get in Touch
-I'm always eager to collaborate on new projects or discuss exciting opportunities in the field of data analysis. Feel free to reach out to me via [email](mailto:your@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+I'm always eager to collaborate on new projects or discuss exciting opportunities in the field of data analysis. Feel free to reach out to me via [email](troydonte93@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/troy-edmonds/).
 
 ## Let's Connect!
 If you find my projects interesting or have any feedback, I'd love to hear from you! Don't hesitate to star ⭐️ this repository and explore the projects. Together, let's unlock the potential of data and make an impact!
